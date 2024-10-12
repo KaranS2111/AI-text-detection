@@ -2,7 +2,7 @@
 
 Welcome to the **AI Text Detection App**! 🚀 This tool helps you classify text intelligently by leveraging NLP techniques and machine learning. Whether you’re detecting spam emails, classifying documents, or identifying suspicious content—this app has your back! 🕵️‍♂️
 
-
+![screenshot](app.png)
 
 ---
 
@@ -18,8 +18,8 @@ Welcome to the **AI Text Detection App**! 🚀 This tool helps you classify text
 
 ### Step 1: Clone the Repository  
 ```bash
-git clone https://github.com/your-username/ai-text-detection-app.git
-cd ai-text-detection-app
+git clone https://github.com/KaranS2111/AI-text-detection
+cd AI-text-detection
 ```
 Step 2: Create a Virtual Environment
 It's always a good idea to isolate your project dependencies!
