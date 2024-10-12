@@ -1,6 +1,6 @@
 # 📚 AI Text Detection App  
 
-Welcome to the **AI Text Detection App**! 🚀 This tool helps you classify text intelligently by leveraging NLP techniques and machine learning. Whether you’re detecting spam emails, classifying documents, or identifying suspicious content—this app has your back! 🕵️‍♂️
+Welcome to the **AI Text Detection App**! 🚀 This tool helps you detect text intelligently by leveraging NLP techniques and machine learning. Whether given text is AI generated (models like gpt4o, gpt4o mini. llama, gemini-1.5-flash, gemini pro, claude 3.5 sonnet,etc) or it's your own creation.🕵️‍♂️
 
 ![screenshot](app.png)
 
